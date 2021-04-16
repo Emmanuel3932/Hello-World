@@ -1,2 +1,4 @@
 # Hello-World
-Another repository 
+.
+
+My name is Emmanuel and I'm  a front end developer(HTML, CSS and JAVASCRIPT) 
